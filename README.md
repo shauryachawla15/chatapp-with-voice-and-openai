@@ -1,1 +1,66 @@
-# coding-project-template
+# 🧠 ChatApp with Voice and OpenAI  
+
+A modern real-time chat application powered by **OpenAI**, featuring **voice input**, **AI-generated responses**, and a clean, responsive web interface.  
+Built using **Flask**, **HTML/CSS/JS**, and **OpenAI’s API**, this project demonstrates the integration of conversational AI into an interactive web app.
+
+---
+
+## 🚀 Features
+
+✅ **AI Chat Responses** – Engage in intelligent, context-aware conversations with OpenAI’s LLM.  
+🎙️ **Voice Input** – Speak to the app using your microphone (powered by browser speech recognition).  
+💬 **Real-time Message Display** – Chat messages appear dynamically without reloading.  
+🎨 **Minimal & Modern UI** – Clean, responsive design for both desktop and mobile users.  
+⚙️ **Flask Backend** – Lightweight server handling API requests and OpenAI communication.  
+🔒 **Environment Variables** – Secure key management via `.env` file.
+
+---
+
+## 🧩 Tech Stack
+
+| Component | Technology |
+|------------|-------------|
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Backend** | Flask (Python) |
+| **AI API** | OpenAI GPT API |
+| **Voice Recognition** | Web Speech API |
+| **Version Control** | Git & GitHub |
+
+---
+
+## 🧠 How It Works
+
+1. The user types or speaks a message.  
+2. The Flask backend sends it to the OpenAI API.  
+3. The AI’s response is displayed in the chat window.  
+4. Voice input and text input can be used interchangeably.
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# 1️⃣ Clone this repository
+git clone https://github.com/shauryachawla15/chatapp-with-voice-and-openai.git
+
+# 2️⃣ Navigate into the project directory
+cd chatapp-with-voice-and-openai
+
+# 3️⃣ Create a virtual environment (optional but recommended)
+python3 -m venv venv
+source venv/bin/activate  # (Linux/Mac)
+venv\Scripts\activate     # (Windows)
+
+# 4️⃣ Install dependencies
+pip install -r requirements.txt
+
+# 5️⃣ Create a .env file in the root directory and add your OpenAI key
+OPENAI_API_KEY=your_api_key_here
+
+# 6️⃣ Run the Flask app
+python app.py
+
+# 7️⃣ Open your browser
+Visit http://127.0.0.1:5000/
