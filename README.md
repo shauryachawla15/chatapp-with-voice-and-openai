@@ -65,41 +65,5 @@ python3 server.py
 # 7️⃣ Open your browser
 Visit http://127.0.0.1:8000/
 
-🖼️ Screenshots
-<img width="1403" height="753" alt="Screenshot 2025-11-13 194213" src="https://github.com/user-attachments/assets/93e83eb0-b57f-4a84-8ff5-8e0465e5cf32" />
-<img width="1430" height="409" alt="Screenshot 2025-11-13 194513" src="https://github.com/user-attachments/assets/b3f56f3b-997e-42ab-89cd-3298d3494cad" />
-<img width="1304" height="695" alt="Screenshot 2025-11-13 204812" src="https://github.com/user-attachments/assets/fff1e726-3d1c-4c0d-beb7-485799bba294" />
-<img width="1296" height="723" alt="Screenshot 2025-11-13 204930" src="https://github.com/user-attachments/assets/c7978fa1-3631-4eed-aeee-b060fb78689f" />
-<img width="1453" height="794" alt="Screenshot 2025-11-13 204938" src="https://github.com/user-attachments/assets/7a70cb18-78b7-403a-8206-513c8da7e3c0" />
 
-🤝 Contributing
-
-Contributions, ideas, and improvements are welcome!
-If you'd like to contribute:
-
-Fork the repo 🍴
-
-Create a new branch (feature-xyz)
-
-Commit your changes
-
-Open a Pull Request 🚀
-
-
-
-👨‍💻 Developer: Shaurya Chawla
-🌍 GitHub: @shauryachawla15
-
-🪄 Acknowledgements
-
-OpenAI API
- for powering the language intelligence
-
-Flask
- for the lightweight backend
-
-Web Speech API
- for voice recognition
-
-Inspiration from modern chat UI designs and voice-enabled assistants
 
