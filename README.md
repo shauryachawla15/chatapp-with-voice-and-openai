@@ -65,5 +65,74 @@ python3 server.py
 # 7️⃣ Open your browser
 Visit http://127.0.0.1:8000/
 
+🧭 Project Structure
+chatapp-with-voice-and-openai/
+│
+├── static/
+│   ├── style.css
+│   └── script.js
+│
+├── templates/
+│   └── index.html
+│
+├── app.py
+├── requirements.txt
+├── .env (not uploaded)
+└── README.md
 
+🖼️ Screenshots
+
+<img width="1304" height="695" alt="Screenshot 2025-11-13 204812" src="https://github.com/user-attachments/assets/e76a0dd9-62fd-43c0-b741-04e814b3dcc9" />
+<img width="1296" height="723" alt="Screenshot 2025-11-13 204930" src="https://github.com/user-attachments/assets/17bf5e20-df14-41bc-8208-0f225db19991" />
+<img width="1453" height="794" alt="Screenshot 2025-11-13 204938" src="https://github.com/user-attachments/assets/9cb3055f-5f2c-4106-bc15-2142ca6397e8" />
+<img width="1403" height="753" alt="Screenshot 2025-11-13 194213" src="https://github.com/user-attachments/assets/89cae640-07d6-4576-9489-0d9ac046221a" />
+
+
+
+Chat Interface	Voice Input
+
+	
+📚 Additional Information
+💡 Future Enhancements
+
+🔊 Add AI-generated voice replies (text-to-speech).
+
+🧍‍♂️ Support multi-user chat or session tracking.
+
+🌐 Deploy to Render / Vercel / Heroku for public use.
+
+🧩 Integrate with LangChain or RAG for smarter context.
+
+🤝 Contributing
+
+Contributions, ideas, and improvements are welcome!
+If you'd like to contribute:
+
+Fork the repo 🍴
+
+Create a new branch (feature-xyz)
+
+Commit your changes
+
+Open a Pull Request 🚀
+
+📬 Contact
+
+👨‍💻 Developer: Shaurya Chawla
+
+📧 Email: (add your email here if comfortable)
+🌍 GitHub: @shauryachawla15
+
+🪄 Acknowledgements
+
+OpenAI API
+ for powering the language intelligence
+
+Flask
+ for the lightweight backend
+
+Web Speech API
+ for voice recognition
+
+Inspiration from modern chat UI designs and voice-enabled assistants
 
